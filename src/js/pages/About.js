@@ -10,7 +10,6 @@ export default class About extends React.Component{
       <h1>About subroute {this.props.params.item}</h1>
       <h1>{date}</h1>
       </div>
-
     );
   }
 }
